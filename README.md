@@ -1,5 +1,4 @@
 # Cheatsheets
-* * *
 A non-comprehensive list of quick reference guides on programming subjects. Feel free to make a suggestion for additions, I make additions as I come across them.
 ### _Markdown_
 * [Markdown Cheatsheet](http://packetlife.net/media/library/16/Markdown.pdf)
